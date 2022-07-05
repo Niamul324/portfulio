@@ -23,7 +23,7 @@ img {
     padding: 5px;
     margin: 40px 10px;
     display: flex;
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     /* border: 2px solid red; */
 }
@@ -38,7 +38,7 @@ img {
     display: flex;
     margin: 40px 10px;
     flex-direction: column;
-    background-image: url(/images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -59,7 +59,7 @@ img {
     padding: 10px 10px;
     margin: 10px 10px;
     font-weight: bold;
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 
