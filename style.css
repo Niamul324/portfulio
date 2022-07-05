@@ -16,7 +16,7 @@ img{
 }
 section{
     padding: 5px;
-    margin: 5px;
+    margin: 40px 10px;
     display: flex;
     background-image: url(/images/top-banner.png);
     background-repeat: no-repeat;
@@ -25,10 +25,36 @@ section{
     width: 60%;
     font-weight: bold;
 }
+.para2{
+    width: 60%;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    font-weight: bold;
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.para2 p{
+    /* border: 2px solid black; */
+    width: 80%;
+    text-align: justify;
+
+}
 .image{
     width: 30%;
 }
+.image2{
+    width: 30%;
+}
 .btn{
+    text-decoration: none;
+     padding: 10px 30px;
+     border-radius: 5px;
+     color: white;
+     background-image: linear-gradient(green, red);
+}
+.btn2{
     text-decoration: none;
      padding: 10px 30px;
      border-radius: 5px;
